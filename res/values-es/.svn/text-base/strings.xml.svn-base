@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Merchant</string>
+    <string name="message_unavailable">This operation is not available in the current version of the software</string>
+    <string name="test">Test System</string>
+    <string name="test17">Test System (17)</string>
+    <string name="demo">Demo System</string>
+    <string name="usa">USA</string>
+    <string name="usa_new">USA - New</string>
+    <string name="sweden">Sweden</string>
+    <string name="peru">Peru</string>
+    <string name="mozambique">Mozambique</string>
+    <string name="jordan">Jordan</string>
+    <string name="uganda">Uganda</string>
+    <string name="setecs_demo_system">SETECS Demo System</string>
+    <string name="setecs_demo_system17">SETECS Demo System (17)</string>
+    <string name="setecs_usa_1">SETECS USA System (without PCI)</string>
+    <string name="setecs_usa_2">SETECS USA System (with PCI)</string>
+    <string name="setecs_usa_3">SETECS USA System (New)</string>
+    <string name="setecs_canada">SETECS Canada System</string>
+    <string name="setecs_italy">SETECS Demo System (Italy)</string>
+
+    <string-array name="safe_systems">
+        <item>@string/test</item>
+        <item>@string/demo</item>
+        <item>@string/usa</item>
+        <item>@string/peru</item>
+        <item>@string/mozambique</item>
+        <item>@string/uganda</item>
+    </string-array>
+    <string-array name="safe_systems2">
+        <item>@string/test</item>
+        <item>@string/test17</item>
+        <item>@string/setecs_demo_system</item>
+        <item>@string/setecs_usa_1</item>
+        <item>@string/setecs_usa_2</item>
+        <item>@string/setecs_usa_3</item>
+        <item>@string/setecs_canada</item>
+        <item>@string/setecs_italy</item>
+    </string-array>
+
+    <!-- Login -->
+    <string name="setecs_wallet">SETECS Wallet</string>
+    <string name="pin">PIN</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="ok">OK</string>
+    <string name="delete_sign">&lt;-</string>
+    <string name="safe_account_balance">SETECS Account Balance</string>
+    <string name="current_pin_">Current PIN:</string>
+    <string name="new_pin_">New PIN:</string>
+    <string name="current_pin">Current PIN</string>
+    <string name="check_balance">Check Balance</string>
+    <string name="wallet_configuration">Wallet Configuration</string>
+    <string name="safe_system_mobile_number_">SETECS System Mobile Number:</string>
+    <string name="safe_system_mobile_number">SETECS System Mobile Number</string>
+    <string name="select_safe_account_">Select SETECS Account:</string>
+    <string name="safe_system_ip_number_">SETECS System IP Number:</string>
+    <string name="save">Save</string>
+    <string name="change_safe_system_pin">Change SETECS System PIN</string>
+    <string name="new_pin">New PIN</string>
+    <string name="confirm_new_pin_">Confirm New PIN:</string>
+    <string name="confirm_new_pin">Confirm New PIN</string>
+    <string name="change_safe_pin">Change SETECS PIN</string>
+    <string name="change_wallet_pin">Change Wallet PIN</string>
+    <string name="country_codes">Country Codes</string>
+    <string name="countries">Countries</string>
+    <string name="request_certificate">Request Certificate</string>
+    <string name="security_options">Security Options</string>
+    <string name="security_settings">Security Settings</string>
+    <string name="_change_application_pin">\tChange Application PIN</string>
+    <string name="_change_safe_system_pin">\tChange SETECS System PIN</string>
+    <string name="_request_certificates">\tRequest Certificates</string>
+    <string name="_security_options">\tSecurity Options</string>
+    <string name="enter_safe_pin">Enter SETECS PIN</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="configuration">Configuration</string>
+    <string name="safe_system_ip_number">SETECS System IP Number</string>
+    <string name="code">Code</string>
+    <string name="response">RESPONSE</string>
+    <string name="_130_237_215_188">130.237.215.188</string>
+
+</resources>

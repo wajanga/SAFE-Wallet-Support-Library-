@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget314"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/widget236"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title"
+        android:gravity="center"
+        android:padding="10dip"
+        android:shadowColor="#ff003333"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="1.5"
+        android:text="@string/configuration"
+        android:textColor="#ff000066"
+        android:textSize="24sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/background"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="10dp" >
+
+        <TextView
+            android:id="@+id/widget222"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="@string/safe_system_mobile_number_"
+            android:textColor="#ff000000"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:visibility="gone" >
+        </TextView>
+
+        <EditText
+            android:id="@+id/SAFE_mob_no"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/safe_system_mobile_number"
+            android:inputType="phone"
+            android:text=""
+            android:textSize="18sp" >
+        </EditText>
+
+        <TextView
+            android:id="@+id/widget217"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:text="@string/safe_system_ip_number_"
+            android:textColor="#ff000000"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:visibility="gone" >
+        </TextView>
+
+        <EditText
+            android:id="@+id/SAFE_ip_no"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/safe_system_ip_number"
+            android:inputType="text"
+            android:text="@string/_130_237_215_188"
+            android:textSize="18sp" >
+        </EditText>
+
+        <Button
+            android:id="@+id/confsave_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/save"
+            android:textSize="20sp"
+            android:textStyle="bold" >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>

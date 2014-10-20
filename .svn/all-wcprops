@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/seclab/android/!svn/ver/682/trunk/A-SafeApps
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/default.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/AndroidManifest.xml
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/seclab/android/!svn/ver/235/trunk/A-SafeApps/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/.project
+END
+lint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/seclab/android/!svn/ver/382/trunk/A-SafeApps/lint.xml
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/proguard.cfg
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/seclab/android/!svn/ver/744/trunk/A-SafeApps/.classpath
+END

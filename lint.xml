@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="Deprecated">
+        <ignore path="res\layout\change_wallet_pin.xml" />
+        <ignore path="res\layout\system_msg.xml" />
+    </issue>
+    <issue id="DuplicateIds">
+        <ignore path="res\layout\application_conf.xml" />
+        <ignore path="res\layout\change_safe_pin.xml" />
+        <ignore path="res\layout\change_wallet_pin.xml" />
+        <ignore path="res\layout\request_cert.xml" />
+        <ignore path="res\layout\security_options.xml" />
+        <ignore path="res\layout\security_settings.xml" />
+        <ignore path="res\layout\system_msg.xml" />
+        <ignore path="res\layout\wallet_conf.xml" />
+    </issue>
+    <issue id="GifUsage">
+        <ignore path="res\drawable\comment_icon.gif" />
+        <ignore path="res\drawable\comment_icon2.gif" />
+        <ignore path="res\drawable\comment_icon3.gif" />
+    </issue>
+    <issue id="IconLocation">
+        <ignore path="res\drawable\comment_icon.gif" />
+        <ignore path="res\drawable\comment_icon2.gif" />
+        <ignore path="res\drawable\comment_icon3.gif" />
+    </issue>
+    <issue id="MissingTranslation">
+        <ignore path="res\values\strings.xml" />
+    </issue>
+    <issue id="Overdraw">
+        <ignore path="res\layout\account_balance.xml" />
+        <ignore path="res\layout\application_conf.xml" />
+        <ignore path="res\layout\change_safe_pin.xml" />
+        <ignore path="res\layout\change_wallet_pin.xml" />
+        <ignore path="res\layout\country_code_list.xml" />
+        <ignore path="res\layout\request_cert.xml" />
+    </issue>
+    <issue id="UnknownIdInLayout">
+        <ignore path="res\layout\account_balance.xml" />
+    </issue>
+    <issue id="UnusedResources">
+        <ignore path="res\layout\account_balance.xml" />
+        <ignore path="res\layout\application_conf.xml" />
+        <ignore path="res\layout\change_safe_pin.xml" />
+        <ignore path="res\layout\country_code_list.xml" />
+        <ignore path="res\values\colors.xml" />
+        <ignore path="res\values\dimens.xml" />
+    </issue>
+</lint>

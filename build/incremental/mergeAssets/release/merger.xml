@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/aronkondoro/Documents/workspace/A-SafeApps/assets" >
+            <file
+                name=".svn/all-wcprops"
+                path="/Users/aronkondoro/Documents/workspace/A-SafeApps/assets/.svn/all-wcprops" />
+            <file
+                name=".svn/entries"
+                path="/Users/aronkondoro/Documents/workspace/A-SafeApps/assets/.svn/entries" />
+        </source>
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/aronkondoro/Documents/workspace/A-SafeApps/src/release/assets" />
+    </dataSet>
+
+</merger>

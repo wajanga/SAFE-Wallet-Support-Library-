@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/util/security
+END
+PKCS10GenerateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/util/security/PKCS10GenerateRequest.java
+END
+EasySSLSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/util/security/EasySSLSocketFactory.java
+END
+EasyX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/util/security/EasyX509TrustManager.java
+END
+CryptoProviderClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/util/security/CryptoProviderClient.java
+END
+SexpWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/util/security/SexpWriter.java
+END
+UUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/util/security/UUIDGenerator.java
+END
+CryptoProviderClientExtended.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/util/security/CryptoProviderClientExtended.java
+END
+DigestProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/util/security/DigestProvider.java
+END
+PrintableCoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/util/security/PrintableCoding.java
+END
+SymmetricCryption.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/util/security/SymmetricCryption.java
+END

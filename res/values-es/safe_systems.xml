@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="test">
+        <item>46</item>
+        <item>461234567</item>
+        <item>130.237.215.16</item>
+    </string-array>
+    <string-array name="test17">
+        <item>46</item>
+        <item>461234567</item>
+        <item>130.237.215.17</item>
+    </string-array>
+    <string-array name="demo">
+        <item>46</item>
+        <item>461234567</item>
+        <item>130.237.215.42</item>
+    </string-array>
+    <string-array name="usa">
+        <item>1</item>
+        <item>17654321</item>
+        <item>207.188.192.233</item>
+    </string-array>
+    <string-array name="uganda">
+        <item>256</item>
+        <item>17654321</item>
+        <item>196.0.7.157</item>
+    </string-array>
+    <string-array name="setecs_demo_system">
+        <item>46</item>
+        <item>461234567</item>
+        <item>130.237.215.42</item>
+    </string-array>
+    <string-array name="setecs_usa_1">
+        <item>46</item>
+        <item>461234567</item>
+        <item>207.188.192.233</item>
+    </string-array>
+    <string-array name="setecs_usa_2">
+        <item>46</item>
+        <item>461234567</item>
+        <item>207.188.192.233</item>
+    </string-array>
+    <string-array name="setecs_usa_3">
+        <item>46</item>
+        <item>461234567</item>
+        <item>23.24.126.244</item>
+    </string-array>
+    <string-array name="setecs_canada">
+        <item>46</item>
+        <item>461234567</item>
+        <item>130.237.215.16</item>
+    </string-array>
+    <string-array name="setecs_italy">
+        <item>46</item>
+        <item>461234567</item>
+        <item>139.191.63.247</item>
+    </string-array>
+
+</resources>

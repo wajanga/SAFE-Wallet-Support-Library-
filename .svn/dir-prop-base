@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 55
+bin
+
+local.properties
+
+build.xml
+
+proguard-project.txt
+
+K 13
+svn:mergeinfo
+V 44
+/branches/product_SAFE-US/A-SafeApps:216-300
+END

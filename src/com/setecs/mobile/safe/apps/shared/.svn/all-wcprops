@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/seclab/android/!svn/ver/682/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared
+END
+DisplaySAFEResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/seclab/android/!svn/ver/442/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/DisplaySAFEResponse.java
+END
+AccountBalance.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/seclab/android/!svn/ver/721/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/AccountBalance.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/seclab/android/!svn/ver/352/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/Constants.java
+END
+AccountBalanceParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/seclab/android/!svn/ver/721/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/AccountBalanceParser.java
+END
+SharedMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/seclab/android/!svn/ver/705/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/SharedMethods.java
+END
+CustomExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/seclab/android/!svn/ver/302/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/CustomExceptionHandler.java
+END
+ShowCountryCodesList.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/ShowCountryCodesList.java
+END
+RequestCertificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/seclab/android/!svn/ver/303/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/RequestCertificate.java
+END
+GetAccountsListThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/GetAccountsListThread.java
+END
+SecuritySettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/SecuritySettings.java
+END
+SocketService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/seclab/android/!svn/ver/442/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/SocketService.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/seclab/android/!svn/ver/601/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/Util.java
+END
+ChangeSafePinThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/ChangeSafePinThread.java
+END
+SecurityOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/seclab/android/!svn/ver/405/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/SecurityOptions.java
+END
+SAFEMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/seclab/android/!svn/ver/599/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/SAFEMessage.java
+END
+CheckAccontStatusThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/seclab/android/!svn/ver/234/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/CheckAccontStatusThread.java
+END
+ChangeSafePin.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/seclab/android/!svn/ver/593/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/ChangeSafePin.java
+END
+ShowSafeSystemList.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/seclab/android/!svn/ver/596/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/ShowSafeSystemList.java
+END
+ChangeApplicationPin.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/ChangeApplicationPin.java
+END
+SafeSystemAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/seclab/android/!svn/ver/780/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/SafeSystemAdapter.java
+END
+CountriesList.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/src/com/setecs/mobile/safe/apps/shared/CountriesList.java
+END

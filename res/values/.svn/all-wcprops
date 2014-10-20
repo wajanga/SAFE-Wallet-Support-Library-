@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/seclab/android/!svn/ver/619/trunk/A-SafeApps/res/values
+END
+ids.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/res/values/ids.xml
+END
+arrays.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/seclab/android/!svn/ver/353/trunk/A-SafeApps/res/values/arrays.xml
+END
+colors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/res/values/colors.xml
+END
+styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/seclab/android/!svn/ver/554/trunk/A-SafeApps/res/values/styles.xml
+END
+safe_systems.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/seclab/android/!svn/ver/785/trunk/A-SafeApps/res/values/safe_systems.xml
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/seclab/android/!svn/ver/780/trunk/A-SafeApps/res/values/strings.xml
+END
+attrs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/res/values/attrs.xml
+END
+dimens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/seclab/android/!svn/ver/554/trunk/A-SafeApps/res/values/dimens.xml
+END
+custom_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/res/values/custom_style.xml
+END

@@ -1,0 +1,52 @@
+10
+
+dir
+693
+https://seclab.svn.ict.kth.se/seclab/android/trunk/A-SafeApps/res
+https://seclab.svn.ict.kth.se/seclab/android
+
+
+
+2013-03-14T16:50:07.614275Z
+664
+kondoro@KTH.SE
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+30a61b75-87a7-4d37-b5d9-5628f7834373
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values
+dir
+
+values-es
+dir
+

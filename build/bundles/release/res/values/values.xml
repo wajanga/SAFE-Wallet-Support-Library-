@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="demo">
+        <item>46</item>
+        <item>461234567</item>
+        <item>130.237.215.42</item>
+    </string-array>
+    <string-array name="safe_systems">
+        <item>@string/test</item>
+        <item>@string/demo</item>
+        <item>@string/usa</item>
+        <item>@string/peru</item>
+        <item>@string/mozambique</item>
+        <item>@string/uganda</item>
+    </string-array>
+    <string-array name="safe_systems2">
+        <item>@string/test</item>
+        <item>@string/test17</item>
+        <item>@string/setecs_demo_system</item>
+        <item>@string/setecs_usa_1</item>
+        <item>@string/setecs_usa_2</item>
+        <item>@string/setecs_usa_3</item>
+        <item>@string/setecs_canada</item>
+    </string-array>
+    <string-array name="setecs_canada">
+        <item>46</item>
+        <item>461234567</item>
+        <item>130.237.215.16</item>
+    </string-array>
+    <string-array name="setecs_demo_system">
+        <item>46</item>
+        <item>461234567</item>
+        <item>130.237.215.42</item>
+    </string-array>
+    <string-array name="setecs_usa_1">
+        <item>46</item>
+        <item>461234567</item>
+        <item>207.188.192.233</item>
+    </string-array>
+    <string-array name="setecs_usa_2">
+        <item>46</item>
+        <item>461234567</item>
+        <item>207.188.192.233</item>
+    </string-array>
+    <string-array name="setecs_usa_3">
+        <item>46</item>
+        <item>461234567</item>
+        <item>23.24.126.244</item>
+    </string-array>
+    <string-array name="test">
+        <item>46</item>
+        <item>461234567</item>
+        <item>130.237.215.16</item>
+    </string-array>
+    <string-array name="test17">
+        <item>46</item>
+        <item>461234567</item>
+        <item>130.237.215.17</item>
+    </string-array>
+    <string-array name="uganda">
+        <item>256</item>
+        <item>17654321</item>
+        <item>196.0.7.157</item>
+    </string-array>
+    <string-array name="usa">
+        <item>1</item>
+        <item>17654321</item>
+        <item>207.188.192.233</item>
+    </string-array>
+
+    <color name="background1">#ffffffff</color>
+    <color name="background2">#ffd5ddeb</color>
+    <color name="background3">#ffe3e8f1</color>
+    <color name="black_text">#ff000000</color>
+    <color name="foreground1">#ff355689</color>
+    <color name="foreground2">#ff7081a3</color>
+    <color name="pinned_header_background">#ff202020</color>
+    <color name="session_foreground_past">#ff999999</color>
+    <color name="title_background">#ff355689</color>
+    <color name="title_separator">#40ffffff</color>
+    <color name="title_text">#ffffffff</color>
+    <color name="title_text_alt">#ff000000</color>
+    <color name="transparent">#00000000</color>
+
+    <declare-styleable name="BlocksLayout">
+        <attr name="columns" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="TimeRulerView">
+        <attr name="headerWidth" format="dimension" />
+        <attr name="hourHeight" format="dimension" />
+        <attr name="horizontalDivider" format="boolean" />
+        <attr name="labelTextSize" format="dimension" />
+        <attr name="labelPaddingLeft" format="dimension" />
+        <attr name="labelColor" format="color" />
+        <attr name="dividerColor" format="color" />
+        <attr name="startHour" format="integer" />
+        <attr name="endHour" format="integer" />
+    </declare-styleable>
+
+    <dimen name="button_padding">5dp</dimen>
+    <dimen name="colorstrip_height">6dip</dimen>
+    <dimen name="layout_margin">5dp</dimen>
+    <dimen name="now_playing_height">90dip</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="title_height">45dip</dimen>
+
+    <item name="blocks_now" type="id"/>
+    <item name="blocks_ruler" type="id"/>
+    <item name="dialog_discard_confirm" type="id"/>
+    <item name="dialog_moderator" type="id"/>
+    <item name="dialog_wave" type="id"/>
+    <item name="title_container" type="id"/>
+    <item name="title_logo" type="id"/>
+    <item name="title_text" type="id"/>
+
+    <string name="_130_237_215_188">130.237.215.188</string>
+    <string name="_change_application_pin">\tChange Application PIN</string>
+    <string name="_change_safe_system_pin">\tChange SETECS System PIN</string>
+    <string name="_request_certificates">\tRequest Certificates</string>
+    <string name="_security_options">\tSecurity Options</string>
+    <string name="app_name">Merchant</string>
+    <string name="change_safe_pin">Change SETECS PIN</string>
+    <string name="change_safe_system_pin">Change SETECS System PIN</string>
+    <string name="change_wallet_pin">Change Wallet PIN</string>
+    <string name="check_balance">Check Balance</string>
+    <string name="code">Code</string>
+    <string name="configuration">Configuration</string>
+    <string name="confirm_new_pin">Confirm New PIN</string>
+    <string name="confirm_new_pin_">Confirm New PIN:</string>
+    <string name="countries">Countries</string>
+    <string name="country_codes">Country Codes</string>
+    <string name="current_pin">Current PIN</string>
+    <string name="current_pin_">Current PIN:</string>
+    <string name="delete_sign">&lt;-</string>
+    <string name="demo">Demo System</string>
+    <string name="eight">8</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="enter_safe_pin">Enter SETECS PIN</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="hello">Hello World!</string>
+    <string name="jordan">Jordan</string>
+    <string name="message_unavailable">This operation is not available in the current version of the software</string>
+    <string name="mozambique">Mozambique</string>
+    <string name="new_pin">New PIN</string>
+    <string name="new_pin_">New PIN:</string>
+    <string name="nine">9</string>
+    <string name="ok">OK</string>
+    <string name="one">1</string>
+    <string name="peru">Peru</string>
+    <string name="pin">PIN</string>
+    <string name="request_certificate">Request Certificate</string>
+    <string name="response">RESPONSE</string>
+    <string name="safe_account_balance">SETECS Account Balance</string>
+    <string name="safe_system_ip_number">SETECS System IP Number</string>
+    <string name="safe_system_ip_number_">SETECS System IP Number:</string>
+    <string name="safe_system_mobile_number">SETECS System Mobile Number</string>
+    <string name="safe_system_mobile_number_">SETECS System Mobile Number:</string>
+    <string name="save">Save</string>
+    <string name="security_options">Security Options</string>
+    <string name="security_settings">Security Settings</string>
+    <string name="select_safe_account_">Select SETECS Account:</string>
+    <string name="setecs_canada">SETECS Canada System</string>
+    <string name="setecs_demo_system">SETECS Demo System</string>
+    <string name="setecs_demo_system17">SETECS Demo System (17)</string>
+    <string name="setecs_usa_1">SETECS USA System (without PCI)</string>
+    <string name="setecs_usa_2">SETECS USA System (with PCI)</string>
+    <string name="setecs_usa_3">SETECS USA System (New)</string>
+    <string name="setecs_wallet">SETECS Wallet</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="sweden">Sweden</string>
+    <string name="test">Test System</string>
+    <string name="test17">Test System (17)</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="uganda">Uganda</string>
+    <string name="usa">USA</string>
+    <string name="usa_new">USA - New</string>
+    <string name="wallet_configuration">Wallet Configuration</string>
+    <string name="zero">0</string>
+
+    <style name="ButtonText">
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/foreground1</item>
+    </style>
+
+    <style name="CustomTheme" parent="android:Theme">
+        <item name="android:windowTitleSize">35dip</item>
+        <item name="android:windowTitleBackgroundStyle">@style/CustomWindowTitleBackground</item>
+    </style>
+
+    <style name="CustomWindowTitleBackground">
+        <item name="android:background">#323331</item>
+    </style>
+
+    <style name="HomeButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/foreground1</item>
+        <item name="android:background">@null</item>
+    </style>
+
+    <style name="TextBody">
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+        <item name="android:textColor">@android:color/secondary_text_light</item>
+    </style>
+
+    <style name="Theme" parent="android:Theme" />
+
+    <style name="Theme.D1" parent="android:style/Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="Theme.D1dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="Theme.D1t" parent="android:style/Theme.Light">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="Theme.D1tranlucent" parent="android:style/Theme.Translucent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="Theme.IOSched" parent="android:style/Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="Theme.IOSched2" parent="android:style/Theme.Light">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="TitleBar">
+        <item name="android:id">@id/title_container</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/title_height</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@color/title_background</item>
+    </style>
+
+    <style name="TitleBarLogo">
+        <item name="android:id">@id/title_logo</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="TitleBarProgressIndicator" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">14dip</item>
+        <item name="android:layout_marginRight">15dip</item>
+        <item name="android:layout_marginTop">14dip</item>
+        <item name="android:indeterminate">true</item>
+    </style>
+
+    <style name="TitleBarSeparator">
+        <item name="android:layout_width">1px</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">@color/title_separator</item>
+    </style>
+
+    <style name="TitleBarSpring">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="TitleBarText">
+        <item name="android:id">@id/title_text</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/title_text</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="login_keyboard">
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

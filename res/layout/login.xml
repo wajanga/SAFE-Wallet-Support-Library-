@@ -1,0 +1,154 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/login_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/layout_margin"
+        android:gravity="center"
+        android:visibility="gone" >
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="@string/pin"
+            android:inputType="textPassword" />
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/button1"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/one" />
+
+            <Button
+                android:id="@+id/button2"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/two" />
+
+            <Button
+                android:id="@+id/button3"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/three" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/button4"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/four" />
+
+            <Button
+                android:id="@+id/button5"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/five" />
+
+            <Button
+                android:id="@+id/button6"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/six" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/button7"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/seven" />
+
+            <Button
+                android:id="@+id/button8"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/eight" />
+
+            <Button
+                android:id="@+id/button9"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/nine" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/button10"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/delete_sign" />
+
+            <Button
+                android:id="@+id/button11"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/zero" />
+
+            <Button
+                android:id="@+id/button12"
+                style="@style/login_keyboard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onButtonClick"
+                android:text="@string/ok" />
+        </TableRow>
+    </TableLayout>
+
+</merge>

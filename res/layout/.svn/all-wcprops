@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/seclab/android/!svn/ver/664/trunk/A-SafeApps/res/layout
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/seclab/android/!svn/ver/29/trunk/A-SafeApps/res/layout/main.xml
+END
+safe_system_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/seclab/android/!svn/ver/71/trunk/A-SafeApps/res/layout/safe_system_list.xml
+END
+change_wallet_pin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/seclab/android/!svn/ver/438/trunk/A-SafeApps/res/layout/change_wallet_pin.xml
+END
+security_options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/seclab/android/!svn/ver/438/trunk/A-SafeApps/res/layout/security_options.xml
+END
+system_msg2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/seclab/android/!svn/ver/619/trunk/A-SafeApps/res/layout/system_msg2.xml
+END
+security_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/seclab/android/!svn/ver/443/trunk/A-SafeApps/res/layout/security_settings.xml
+END
+country_code_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/seclab/android/!svn/ver/382/trunk/A-SafeApps/res/layout/country_code_list.xml
+END
+two_col_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/seclab/android/!svn/ver/357/trunk/A-SafeApps/res/layout/two_col_row.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/seclab/android/!svn/ver/554/trunk/A-SafeApps/res/layout/login.xml
+END
+account_balance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/seclab/android/!svn/ver/443/trunk/A-SafeApps/res/layout/account_balance.xml
+END
+wallet_conf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/seclab/android/!svn/ver/443/trunk/A-SafeApps/res/layout/wallet_conf.xml
+END
+safe_list_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/seclab/android/!svn/ver/520/trunk/A-SafeApps/res/layout/safe_list_row.xml
+END
+system_msg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/seclab/android/!svn/ver/664/trunk/A-SafeApps/res/layout/system_msg.xml
+END
+change_safe_pin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/seclab/android/!svn/ver/593/trunk/A-SafeApps/res/layout/change_safe_pin.xml
+END
+request_cert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/seclab/android/!svn/ver/438/trunk/A-SafeApps/res/layout/request_cert.xml
+END

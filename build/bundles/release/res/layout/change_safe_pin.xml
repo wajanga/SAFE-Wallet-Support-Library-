@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget59"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/widget236"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/title"
+        android:gravity="center"
+        android:padding="10dip"
+        android:shadowColor="#ff003333"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="1.5"
+        android:text="@string/change_safe_system_pin"
+        android:textColor="#ff000066"
+        android:textSize="22sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/widget95"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/widget236"
+        android:background="@drawable/background"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="20dp" >
+
+        <EditText
+            android:id="@+id/safeoldpin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/current_pin"
+            android:inputType="number"
+            android:paddingLeft="10dip"
+            android:password="true"
+            android:textSize="22sp" >
+        </EditText>
+
+        <EditText
+            android:id="@+id/safenewpin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/new_pin"
+            android:inputType="number"
+            android:password="true"
+            android:text=""
+            android:textSize="22sp" >
+        </EditText>
+
+        <EditText
+            android:id="@+id/csafenewpin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/confirm_new_pin"
+            android:inputType="number"
+            android:password="true"
+            android:text=""
+            android:textSize="22sp" >
+        </EditText>
+
+        <Button
+            android:id="@+id/btn_safepinchange"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/change_safe_pin"
+            android:textSize="22sp"
+            android:textStyle="bold" >
+        </Button>
+    </LinearLayout>
+
+</RelativeLayout>
